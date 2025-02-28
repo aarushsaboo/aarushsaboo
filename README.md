@@ -1,7 +1,7 @@
 # ✨ Welcome to My Creative Space ✨
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=aarushsaboo&color=blueviolet&style=flat-square" alt="Profile Views Counter">
 </p>
 
 ## 👋 About Me
