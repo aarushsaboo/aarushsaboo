@@ -17,7 +17,7 @@ Creating beautiful, responsive, and innovative designs is my passion. I enjoy:
 - Optimizing performance while maintaining visual fidelity
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushsaboo&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 
