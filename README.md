@@ -28,73 +28,51 @@ Perfect for students, professionals, and focused learning.
 
 ### $${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platforms}$$
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-    <h3>BSEC Technologies Platform</h3>
-    <pre>
-Description: [Brief description about what this project does]
-Technologies Used: [Relevant tech stack]
-    </pre>
-    <a href="https://bsec-technologies.vercel.app/platforms">
-      <img src="https://img.shields.io/badge/Visit_Site-BSEC_Technologies-blue?style=for-the-badge" alt="Visit Site">
-    </a>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFBSEC.gif" alt="BSEC Technologies Demo" style="width: 100%;">
-  </div>
-  
-  <div style="width: 48%;">
-    <h3>Third Eye</h3>
-    <pre>
-Description: [Brief description about what this project does]
-Technologies Used: [Relevant tech stack]
-    </pre>
-    <a href="https://third-eye-dun.vercel.app/">
-      <img src="https://img.shields.io/badge/Visit_Site-Third_Eye-purple?style=for-the-badge" alt="Visit Site">
-    </a>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFTHIRDEYE.gif" alt="Third Eye Demo" style="width: 100%;">
-  </div>
-</div>
+### BSEC Technologies Platform
+[![Visit Site](https://img.shields.io/badge/Visit_Site-BSEC_Technologies-blue?style=for-the-badge)](https://bsec-technologies.vercel.app/platforms)
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <div style="width: 48%;">
-    <h3>Document Assistant RAG</h3>
-    <pre>
-Description: [Brief description about what this project does]
-Technologies Used: [Relevant tech stack]
-    </pre>
-    <a href="https://aarushsaboo-document-assistant-rag-srcmain-3bgukd.streamlit.app/">
-      <img src="https://img.shields.io/badge/Visit_Site-Document_Assistant-green?style=for-the-badge" alt="Visit Site">
-    </a>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFRAG.gif" alt="Document Assistant Demo" style="width: 100%;">
-  </div>
-  
-  <div style="width: 48%;">
-    <h3>CSV Data Analysis Tool</h3>
-    <pre>
-Description: [Brief description about what this project does]
-Technologies Used: [Relevant tech stack]
-    </pre>
-    <a href="https://github.com/aarushsaboo">
-      <img src="https://img.shields.io/badge/Visit_Site-CSV_Analyzer-orange?style=for-the-badge" alt="Visit Site">
-    </a>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFCSVDATANALYSIS.gif" alt="CSV Analyzer Demo" style="width: 100%;">
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFBSEC.gif" alt="BSEC Technologies Demo" width="100%">
+    </td>
+    <td width="50%">
+      <h3>Third Eye</h3>
+      <a href="https://third-eye-dun.vercel.app/">
+        <img src="https://img.shields.io/badge/Visit_Site-Third_Eye-purple?style=for-the-badge" alt="Visit Site">
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFTHIRDEYE.gif" alt="Third Eye Demo" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Document Assistant RAG</h3>
+      <a href="https://aarushsaboo-document-assistant-rag-srcmain-3bgukd.streamlit.app/">
+        <img src="https://img.shields.io/badge/Visit_Site-Document_Assistant-green?style=for-the-badge" alt="Visit Site">
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFRAG.gif" alt="Document Assistant Demo" width="100%">
+    </td>
+    <td width="50%">
+      <h3>CSV Data Analysis Tool</h3>
+      <a href="https://github.com/aarushsaboo">
+        <img src="https://img.shields.io/badge/Visit_Site-CSV_Analyzer-orange?style=for-the-badge" alt="Visit Site">
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFCSVDATANALYSIS.gif" alt="CSV Analyzer Demo" width="100%">
+    </td>
+  </tr>
+</table>
 
-<h3>Student Lecture Assistant</h3>
-<pre>
-Description: [Brief description about what this project does]
-Technologies Used: [Relevant tech stack]
-</pre>
-<a href="https://github.com/aarushsaboo">
-  <img src="https://img.shields.io/badge/Visit_Site-Lecture_Assistant-red?style=for-the-badge" alt="Visit Site">
-</a>
+### Student Lecture Assistant
+[![Visit Site](https://img.shields.io/badge/Visit_Site-Lecture_Assistant-red?style=for-the-badge)](https://github.com/aarushsaboo)
+
 <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFSTUDENTLECTUREASST.gif" alt="Lecture Assistant Demo" style="width: 500px;">
 
 ## $${\color{#AC3097}📊 \space \color{#56565E}Stats \space & \space Activity}$$
 
 <div align="center">
-
-[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=aarushsaboo&show_icons=true&theme=radical&hide=stars,issues,contribs&count_private=true)](https://github.com/aarushsaboo)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aarushsaboo&color=brightgreen&style=for-the-badge)](https://github.com/aarushsaboo)
 
@@ -103,10 +81,5 @@ Technologies Used: [Relevant tech stack]
 </div>
 
 ## $${\color{#AC3097}📫 \space \color{#56565E}Connect \space & \space Contact}$$
-
-- 📧 Email: [aarush.saboo@gmail.com](mailto:aarush.saboo@gmail.com)
-- 🔗 LinkedIn: [Aarush Saboo](https://www.linkedin.com/in/aarush-saboo-110190253/)
-- 🐱 GitHub: [aarushsaboo](https://github.com/aarushsaboo)
-- 📸 Instagram: [@aarushizbored](https://www.instagram.com/aarushizbored/)
 
 $${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}@AarushSaboo \color{#56565E} \space with \space \color{red}❤️}$$
