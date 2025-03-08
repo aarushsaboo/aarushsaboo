@@ -5,20 +5,21 @@
 </h2>
 
 <div align="center">
-${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$
+$${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
 </div>
 
 <br>
 
-${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
+<div align="center">
+$${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$$
 
-### $${\color{#AC3097}Transform \space \color{#56565E}YouTube™ \space into \space a \space distraction-free \space workspace}$$
-
+<h3>Transform YouTube™ into a distraction-free workspace</h3>
+</div>
 <br>
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/promo.png" alt="YouTube Focus Mode Chrome Extension" width="440" height="280">
+    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/promo.png" alt="YouTube Focus Mode Chrome Extension" width="684" height="685">
   </a>
 </div>
 
