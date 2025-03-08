@@ -16,18 +16,16 @@
 <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/coding-gif.gif" alt="coding" style="width: 500px;">
 </div>
 <!-- Project Showcase Section -->
-<!-- <h2>
+<h2>
   <span style="color:#AC3097;">💻</span>
   <span style="color:#56565E;">Project Showcase</span>
-</h2> -->
+</h2>
 
-**💻 Project Showcase**
-
-$${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
+$\huge{\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$
 
 <br>
 
-$\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
+${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
 ### $${\color{#AC3097}Transform \space \color{#56565E}YouTube™ \space into \space a \space distraction-free \space workspace}$$
 
@@ -49,6 +47,9 @@ $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
     <img src="https://img.shields.io/badge/Users-40+-4285F4?style=for-the-badge" alt="Users">
   </a>
 </div>
+
+<br>
+<br>
 <table style="border-collapse: separate; border-spacing: 15px; width: 100%; border: none;">
   <tr>
     <td style="border: 2px dashed #AC3097; border-radius: 8px; padding: 20px; width: 50%; background-color: #f9f9f9;">
@@ -100,7 +101,7 @@ $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 </table>
 
 <!-- Stats & Activity Section -->
-<h2>
+<!-- <h2>
   <span style="color:#AC3097;">📊</span>
   <span style="color:#56565E;">Stats & Activity</span>
 </h2>
@@ -111,11 +112,9 @@ $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
 [![Extension Users](https://img.shields.io/badge/Extension_Users-40+-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
 
-</div>
-<h2>
-  <!-- <img src="📫" width="20px" alt="📫"> -->
+</div> -->
+<!-- <h2>
   <span style="color:#AC3097;">📫 Connect & Contact</span>
 </h2>
-<!-- ## 📫 Connect & Contact -->
 
-$${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Aarush \space Saboo \color{#56565E} \space with \space \color{red}❤️}$$
+$${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Aarush \space Saboo \color{#56565E} \space with \space \color{red}❤️}$$ -->
