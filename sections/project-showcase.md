@@ -4,7 +4,7 @@ $${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platf
 
 $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
-[$\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb)
+[YouTube™ Focus Mode}](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb)
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
