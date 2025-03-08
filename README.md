@@ -1,6 +1,6 @@
 <div align="center">
 
-![profile-banner](https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/profile-banner.png)
+![profile-banner](https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png)
 
 <h2>Join me on the way to somewhere interesting! Let's build cool stuff</h2>
 
@@ -29,7 +29,7 @@ Perfect for students, professionals, and focused learning.
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
 [![Users](https://img.shields.io/badge/Users-40+-4285F4?style=for-the-badge)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
 
-<img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/youtube-focus-mode.png" alt="YouTube Focus Mode" style="width: 600px;">
+<img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png" alt="YouTube Focus Mode" style="width: 600px;">
 
 ## 💻 Project Showcase
 $${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platforms}$$
