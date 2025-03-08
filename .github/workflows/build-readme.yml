@@ -1,0 +1,37 @@
+name: Build README
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'sections/**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Combine README files
+      run: |
+        echo "# Aarush Saboo's Portfolio" > README.md
+        echo "" >> README.md
+        cat sections/header.md >> README.md
+        echo "" >> README.md
+        cat sections/feature-project.md >> README.md
+        echo "" >> README.md
+        cat sections/project-showcase.md >> README.md
+        echo "" >> README.md
+        cat sections/stats.md >> README.md
+        echo "" >> README.md
+        cat sections/connect.md >> README.md
+    
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update README from section files" || exit 0
+        git push
