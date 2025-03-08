@@ -22,16 +22,15 @@
 </h2>
 
 <div align="center">
-$${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
+${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$
 </div>
 
 <br>
 
-<div align="center">
-$${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$$
+${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
-<h3>Transform YouTube™ into a distraction-free workspace</h3>
-</div>
+### $${\color{#AC3097}Transform \space \color{#56565E}YouTube™ \space into \space a \space distraction-free \space workspace}$$
+
 <br>
 
 <div align="center">
