@@ -41,7 +41,7 @@ Technologies Used: [Relevant tech stack]
 ```
 [![Visit Site](https://img.shields.io/badge/Visit_Site-BSEC_Technologies-blue?style=for-the-badge)](https://bsec-technologies.vercel.app/platforms)
 
-<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/bsec-demo.gif" alt="BSEC Technologies Demo" style="width: 500px;">
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/GIFBSEC.gif" alt="BSEC Technologies Demo" style="width: 500px;">
 
 ### Third Eye
 ```
@@ -50,7 +50,7 @@ Technologies Used: [Relevant tech stack]
 ```
 [![Visit Site](https://img.shields.io/badge/Visit_Site-Third_Eye-purple?style=for-the-badge)](https://third-eye-dun.vercel.app/)
 
-<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/third-eye-demo.gif" alt="Third Eye Demo" style="width: 500px;">
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/GIFTHIRDEYE.gif" alt="Third Eye Demo" style="width: 500px;">
 
 ### Document Assistant RAG
 ```
@@ -59,7 +59,7 @@ Technologies Used: [Relevant tech stack]
 ```
 [![Visit Site](https://img.shields.io/badge/Visit_Site-Document_Assistant-green?style=for-the-badge)](https://aarushsaboo-document-assistant-rag-srcmain-3bgukd.streamlit.app/)
 
-<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/doc-assistant-demo.gif" alt="Document Assistant Demo" style="width: 500px;">
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/GIFRAG.gif" alt="Document Assistant Demo" style="width: 500px;">
 
 ### CSV Data Analysis Tool
 ```
@@ -68,7 +68,7 @@ Technologies Used: [Relevant tech stack]
 ```
 [![Visit Site](https://img.shields.io/badge/Visit_Site-CSV_Analyzer-orange?style=for-the-badge)](https://github.com/aarushsaboo)
 
-<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/csv-analysis-demo.gif" alt="CSV Analyzer Demo" style="width: 500px;">
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/GIFCSVDATANALYSIS.gif" alt="CSV Analyzer Demo" style="width: 500px;">
 
 ### Student Lecture Assistant
 ```
@@ -77,7 +77,7 @@ Technologies Used: [Relevant tech stack]
 ```
 [![Visit Site](https://img.shields.io/badge/Visit_Site-Lecture_Assistant-red?style=for-the-badge)](https://github.com/aarushsaboo)
 
-<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/lecture-assistant-demo.gif" alt="Lecture Assistant Demo" style="width: 500px;">
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/GIFSTUDENTLECTUREASST.gif" alt="Lecture Assistant Demo" style="width: 500px;">
 
 ## 📊 Stats & Activity
 
