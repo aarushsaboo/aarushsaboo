@@ -1,3 +1,6 @@
+## 💻 Project Showcase
+
+$${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
 
 $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 

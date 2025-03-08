@@ -1,7 +1,3 @@
-## 💻 Project Showcase
-
-$${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
-
 <table style="border-collapse: separate; border-spacing: 15px; width: 100%; border: none;">
   <tr>
     <td style="border: 2px dashed #AC3097; border-radius: 8px; padding: 20px; width: 50%; background-color: #f9f9f9;">
