@@ -40,7 +40,7 @@ $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
   </a>
 </div>
 
-<table>
+<table  style="border-collapse: separate; border-spacing: 15px; width: 100%; border: none;">
   <tr>
     <td width="50%">
       <h3>$${\color{#AC3097}BSEC \space \color{#56565E}Technologies}$$</h3>
