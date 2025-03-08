@@ -1,92 +1,103 @@
-# ✨ Welcome to My Creative Space ✨
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarushsaboo&color=blueviolet&style=flat-square" alt="Profile Views Counter">
-</p>
+![profile-banner](https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/profile-banner.png)
 
-## 👋 About Me
-I'm a passionate developer with a deep love for **CSS** and creative web design. I transform ideas into beautiful, interactive experiences that captivate users and make the web a more exciting place.
+<h2>Join me on the way to somewhere interesting! Let's build cool stuff</h2>
 
-<img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="CSS Animation Demo">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarush-saboo-110190253/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarushsaboo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aarushizbored/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarush.saboo@gmail.com)
 
-## 🎨 CSS Enthusiast
-Creating beautiful, responsive, and innovative designs is my passion. I enjoy:
-- Building immersive user experiences
-- Crafting pixel-perfect animations
-- Exploring the boundaries of what CSS can do
-- Optimizing performance while maintaining visual fidelity
+**Frontend & Backend Developer**
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushsaboo&show_icons=true&theme=radical)
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/coding-gif.gif" alt="coding" style="width: 500px;">
+</div>
 
-## 🌟 Featured Projects
+## 🗺️ Map
+- [<code>🎯 Feature Project</code>](#-feature-project)
+- [<code>💻 Project Showcase</code>](#-project-showcase)
+- [<code>📊 Stats & Activity</code>](#-stats--activity)
+- [<code>📫 Connect & Contact</code>](#-connect--contact)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Interactive Portfolio</h3>
-      <p align="center">
-        <a href="https://github.com/YourUsername/Project1" target="_blank">
-          <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="Portfolio Project"/>
-        </a>
-        <p align="center">
-          An immersive portfolio website with parallax effects and micro-interactions
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">CSS Animation Library</h3>
-      <p align="center">
-        <a href="https://github.com/YourUsername/Project2" target="_blank">
-          <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" alt="Animation Library"/>
-        </a>
-        <p align="center">
-          A collection of reusable CSS animations for modern web applications
-        </p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">CSS Art Gallery</h3>
-      <p align="center">
-        <a href="https://github.com/YourUsername/Project3" target="_blank">
-          <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100%" alt="CSS Art"/>
-        </a>
-        <p align="center">
-          Artistic creations made entirely with CSS
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Responsive Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/YourUsername/Project4" target="_blank">
-          <img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="100%" alt="Dashboard Project"/>
-        </a>
-        <p align="center">
-          A beautifully designed responsive dashboard with dark/light mode toggle
-        </p>
-      </p>
-    </td>
-  </tr>
-</table>
+## 🎯 Feature Project
+$${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$$
+### Transform YouTube™ into a distraction-free workspace
 
-## 🏆 My Contributions
-[![Your Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=dracula)](https://github.com/YourUsername)
+Perfect for students, professionals, and focused learning.
 
-## 📫 Let's Connect
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/yourname/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://codepen.io/YourUsername"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
-  <a href="https://twitter.com/YourHandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
+[![Users](https://img.shields.io/badge/Users-40+-4285F4?style=for-the-badge)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
 
----
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/youtube-focus-mode.png" alt="YouTube Focus Mode" style="width: 600px;">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="CSS Animation">
-</p>
+## 💻 Project Showcase
+$${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platforms}$$
 
-<h3 align="center">Thanks for visiting! ✌️</h3>
+### BSEC Technologies Platform
+```
+Description: [Brief description about what this project does]
+Technologies Used: [Relevant tech stack]
+```
+[![Visit Site](https://img.shields.io/badge/Visit_Site-BSEC_Technologies-blue?style=for-the-badge)](https://bsec-technologies.vercel.app/platforms)
+
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/bsec-demo.gif" alt="BSEC Technologies Demo" style="width: 500px;">
+
+### Third Eye
+```
+Description: [Brief description about what this project does]
+Technologies Used: [Relevant tech stack]
+```
+[![Visit Site](https://img.shields.io/badge/Visit_Site-Third_Eye-purple?style=for-the-badge)](https://third-eye-dun.vercel.app/)
+
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/third-eye-demo.gif" alt="Third Eye Demo" style="width: 500px;">
+
+### Document Assistant RAG
+```
+Description: [Brief description about what this project does]
+Technologies Used: [Relevant tech stack]
+```
+[![Visit Site](https://img.shields.io/badge/Visit_Site-Document_Assistant-green?style=for-the-badge)](https://aarushsaboo-document-assistant-rag-srcmain-3bgukd.streamlit.app/)
+
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/doc-assistant-demo.gif" alt="Document Assistant Demo" style="width: 500px;">
+
+### CSV Data Analysis Tool
+```
+Description: [Brief description about what this project does]
+Technologies Used: [Relevant tech stack]
+```
+[![Visit Site](https://img.shields.io/badge/Visit_Site-CSV_Analyzer-orange?style=for-the-badge)](https://github.com/aarushsaboo)
+
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/csv-analysis-demo.gif" alt="CSV Analyzer Demo" style="width: 500px;">
+
+### Student Lecture Assistant
+```
+Description: [Brief description about what this project does]
+Technologies Used: [Relevant tech stack]
+```
+[![Visit Site](https://img.shields.io/badge/Visit_Site-Lecture_Assistant-red?style=for-the-badge)](https://github.com/aarushsaboo)
+
+<img src="https://github.com/aarushsaboo/aarushsaboo/assets/placeholder/lecture-assistant-demo.gif" alt="Lecture Assistant Demo" style="width: 500px;">
+
+## 📊 Stats & Activity
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushsaboo&show_icons=true&theme=radical)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=aarushsaboo&theme=radical)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=aarushsaboo&color=brightgreen&style=for-the-badge)](https://github.com/aarushsaboo)
+
+</div>
+
+## 📫 Connect & Contact
+
+$${\color{#AC3097}Let's \space \color{#56565E}Connect!}$$
+
+- 📧 Email: [aarush.saboo@gmail.com](mailto:aarush.saboo@gmail.com)
+- 🔗 LinkedIn: [Aarush Saboo](https://www.linkedin.com/in/aarush-saboo-110190253/)
+- 🐱 GitHub: [aarushsaboo](https://github.com/aarushsaboo)
+- 📸 Instagram: [@aarushizbored](https://www.instagram.com/aarushizbored/)
+
+$${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}@AarushSaboo \color{#56565E} \space with \space \color{red}❤️}$$
