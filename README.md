@@ -21,7 +21,9 @@
   <span style="color:#56565E;">Project Showcase</span>
 </h2>
 
-$\huge{\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$
+<div align="center">
+${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$
+</div>
 
 <br>
 
