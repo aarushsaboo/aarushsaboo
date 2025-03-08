@@ -24,9 +24,9 @@ Perfect for students, professionals, and focused learning.
 [![Users](https://img.shields.io/badge/Users-40+-4285F4?style=for-the-badge)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
 
 <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png" alt="YouTube Focus Mode" style="width: 600px;">
-## $${\color{#AC3097}💻 \space \color{#56565E}Project \space Showcase}$$
+## 💻 Project Showcase
 
-$${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platforms}$$
+$${\color{#AC3097}Web \space \color{#56565E}Applications \space \& \space Platforms}$$
 
 $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
@@ -77,7 +77,7 @@ $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
         <img src="https://img.shields.io/badge/Visit_Site-Lecture_Assistant-red?style=for-the-badge" alt="Visit Site">
       </a>
       <br><br>
-      <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFCSVDATANALYSIS.gif" alt="Student Lecture Assistant" width="100%">
+      <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFSTUDENTLECTUREASST.gif" alt="Student Lecture Assistant" width="100%">
     </td>
     </tr>
 </table>
@@ -92,4 +92,4 @@ $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 </div>
 ## 📫 Connect & Contact
 
-$${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}@AarushSaboo \color{#56565E} \space with \space \color{red}❤️}$$
+$${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Aarush \space Saboo \color{#56565E} \space with \space \color{red}❤️}$$
