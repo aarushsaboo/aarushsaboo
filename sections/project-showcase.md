@@ -1,6 +1,6 @@
-## $${\color{#AC3097}💻 \space \color{#56565E}Project \space Showcase}$$
+## 💻 Project Showcase
 
-$${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platforms}$$
+$${\color{#AC3097}Web \space \color{#56565E}Applications \space \& \space Platforms}$$
 
 $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
@@ -51,7 +51,7 @@ $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
         <img src="https://img.shields.io/badge/Visit_Site-Lecture_Assistant-red?style=for-the-badge" alt="Visit Site">
       </a>
       <br><br>
-      <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFCSVDATANALYSIS.gif" alt="Student Lecture Assistant" width="100%">
+      <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFSTUDENTLECTUREASST.gif" alt="Student Lecture Assistant" width="100%">
     </td>
     </tr>
 </table>
