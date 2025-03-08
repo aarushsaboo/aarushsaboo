@@ -15,6 +15,9 @@
 
 <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/coding-gif.gif" alt="coding" style="width: 500px;">
 </div>
+## 💻 Project Showcase
+
+$${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
 
 $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
@@ -32,10 +35,6 @@ $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 [![Users](https://img.shields.io/badge/Users-40+-4285F4?style=for-the-badge)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
 
 <!-- <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png" alt="YouTube Focus Mode" style="width: 600px;"> -->
-## 💻 Project Showcase
-
-$${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
-
 <table style="border-collapse: separate; border-spacing: 15px; width: 100%; border: none;">
   <tr>
     <td style="border: 2px dashed #AC3097; border-radius: 8px; padding: 20px; width: 50%; background-color: #f9f9f9;">
