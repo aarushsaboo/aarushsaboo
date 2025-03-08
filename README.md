@@ -24,9 +24,12 @@ Perfect for students, professionals, and focused learning.
 [![Users](https://img.shields.io/badge/Users-40+-4285F4?style=for-the-badge)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
 
 <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png" alt="YouTube Focus Mode" style="width: 600px;">
-## $${\color{#AC3097}💻 \space \color{#56565E}Project \space Showcase}$$
+## 💻 Project Showcase
 
-### $${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platforms}$$
+$${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platforms}$$
+
+$${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$$
+### Transform YouTube™ into a distraction-free workspace
 
 <table>
   <tr>
@@ -58,19 +61,22 @@ Perfect for students, professionals, and focused learning.
     </td>
     <td width="50%">
       <h3>CSV Data Analysis Tool</h3>
-      <a href="https://github.com/aarushsaboo">
+      <a href="https://aarush-csv-data-analysis.streamlit.app/">
         <img src="https://img.shields.io/badge/Visit_Site-CSV_Analyzer-orange?style=for-the-badge" alt="Visit Site">
       </a>
       <br><br>
       <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFCSVDATANALYSIS.gif" alt="CSV Analyzer Demo" width="100%">
     </td>
+    <td width="50%">
+      <h3>Student Lecture Assistant</h3>
+      <a href="https://st-text-audio-converter-fbj2ievpxwf6cr968dahbf.streamlit.app/">
+        <img src="https://img.shields.io/badge/Visit_Site-Lecture_Assistant-red?style=for-the-badge" alt="Visit Site">
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFCSVDATANALYSIS.gif" alt="Student Lecture Assistant" width="100%">
+    </td>
   </tr>
 </table>
-
-### Student Lecture Assistant
-[![Visit Site](https://img.shields.io/badge/Visit_Site-Lecture_Assistant-red?style=for-the-badge)](https://github.com/aarushsaboo)
-
-<img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFSTUDENTLECTUREASST.gif" alt="Lecture Assistant Demo" style="width: 500px;">
 ## $${\color{#AC3097}📊 \space \color{#56565E}Stats \space & \space Activity}$$
 
 <div align="center">
@@ -80,6 +86,6 @@ Perfect for students, professionals, and focused learning.
 [![Extension Users](https://img.shields.io/badge/Extension_Users-40+-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
 
 </div>
-## $${\color{#AC3097}📫 \space \color{#56565E}Connect \space & \space Contact}$$
+## 📫 Connect & Contact
 
 $${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}@AarushSaboo \color{#56565E} \space with \space \color{red}❤️}$$
