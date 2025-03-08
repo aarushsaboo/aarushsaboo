@@ -2,12 +2,6 @@
 
 $${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
 
-<div align="center">
-  <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/promo.png" alt="YouTube Focus Mode Chrome Extension" width="440" height="280">
-  </a>
-</div>
-
 <table style="border-collapse: separate; border-spacing: 15px; width: 100%; border: none;">
   <tr>
     <td style="border: 2px dashed #AC3097; border-radius: 8px; padding: 20px; width: 50%; background-color: #f9f9f9;">
