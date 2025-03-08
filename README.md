@@ -15,7 +15,11 @@
 
 <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/coding-gif.gif" alt="coding" style="width: 500px;">
 </div>
-## $${\color{#AC3097}💻 \space \color{#56565E}Project \space Showcase}$$
+<!-- Project Showcase Section -->
+<h2>
+  <span style="color:#AC3097;">💻</span>
+  <span style="color:#56565E;">Project Showcase</span>
+</h2>
 
 $${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
 
@@ -92,7 +96,12 @@ $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
     <td style="border: none;"></td>
   </tr>
 </table>
-## $${\color{#AC3097}📊 \space \color{#56565E}Stats \space & \space Activity}$$
+
+<!-- Stats & Activity Section -->
+<h2>
+  <span style="color:#AC3097;">📊</span>
+  <span style="color:#56565E;">Stats & Activity</span>
+</h2>
 
 <div align="center">
 
@@ -101,12 +110,10 @@ $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 [![Extension Users](https://img.shields.io/badge/Extension_Users-40+-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
 
 </div>
-
-<!-- Connect & Contact Section -->
 <h2>
   <!-- <img src="📫" width="20px" alt="📫"> -->
   <span style="color:#AC3097;">📫 Connect & Contact</span>
 </h2>
-## 📫 Connect & Contact
+<!-- ## 📫 Connect & Contact -->
 
 $${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Aarush \space Saboo \color{#56565E} \space with \space \color{red}❤️}$$
