@@ -1,6 +1,9 @@
-## $${\color{#AC3097}💻 \space \color{#56565E}Project \space Showcase}$$
+## 💻 Project Showcase
 
-### $${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platforms}$$
+$${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platforms}$$
+
+$${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$$
+### Transform YouTube™ into a distraction-free workspace
 
 <table>
   <tr>
@@ -32,16 +35,19 @@
     </td>
     <td width="50%">
       <h3>CSV Data Analysis Tool</h3>
-      <a href="https://github.com/aarushsaboo">
+      <a href="https://aarush-csv-data-analysis.streamlit.app/">
         <img src="https://img.shields.io/badge/Visit_Site-CSV_Analyzer-orange?style=for-the-badge" alt="Visit Site">
       </a>
       <br><br>
       <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFCSVDATANALYSIS.gif" alt="CSV Analyzer Demo" width="100%">
     </td>
+    <td width="50%">
+      <h3>Student Lecture Assistant</h3>
+      <a href="https://st-text-audio-converter-fbj2ievpxwf6cr968dahbf.streamlit.app/">
+        <img src="https://img.shields.io/badge/Visit_Site-Lecture_Assistant-red?style=for-the-badge" alt="Visit Site">
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFCSVDATANALYSIS.gif" alt="Student Lecture Assistant" width="100%">
+    </td>
   </tr>
 </table>
-
-### Student Lecture Assistant
-[![Visit Site](https://img.shields.io/badge/Visit_Site-Lecture_Assistant-red?style=for-the-badge)](https://github.com/aarushsaboo)
-
-<img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFSTUDENTLECTUREASST.gif" alt="Lecture Assistant Demo" style="width: 500px;">
