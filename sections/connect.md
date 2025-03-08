@@ -1,7 +1,7 @@
 
 <!-- Connect & Contact Section -->
 <h2>
-  <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/icons/mail.svg" width="20px" alt="📫">
+  <img src="📫" width="20px" alt="📫">
   <span style="color:#AC3097;">Connect & Contact</span>
 </h2>
 ## 📫 Connect & Contact
