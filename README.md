@@ -26,7 +26,7 @@ Perfect for students, professionals, and focused learning.
 <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png" alt="YouTube Focus Mode" style="width: 600px;">
 ## 💻 Project Showcase
 
-$${\color{#AC3097}Web \space \color{#56565E}Applications \space \& \space Platforms}$$
+$${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
 
 $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
