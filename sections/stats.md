@@ -1,4 +1,9 @@
-## $${\color{#AC3097}📊 \space \color{#56565E}Stats \space & \space Activity}$$
+
+<!-- Stats & Activity Section -->
+<h2>
+  <span style="color:#AC3097;">📊</span>
+  <span style="color:#56565E;">Stats & Activity</span>
+</h2>
 
 <div align="center">
 

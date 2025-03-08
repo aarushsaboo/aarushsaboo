@@ -1,4 +1,8 @@
-## $${\color{#AC3097}💻 \space \color{#56565E}Project \space Showcase}$$
+<!-- Project Showcase Section -->
+<h2>
+  <span style="color:#AC3097;">💻</span>
+  <span style="color:#56565E;">Project Showcase</span>
+</h2>
 
 $${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
 
