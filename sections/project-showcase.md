@@ -4,7 +4,7 @@ $${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platfor
 
 $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
-### $${\color{#AC3097}Transform \space \color{#56565E}YouTube™ \space into \space a \space distraction-free \space workspace}$$
+### $${Transform \space \color{#56565E}YouTube™ \space into \space a \space distraction-free \space workspace}$$
 
 <table>
   <tr>
