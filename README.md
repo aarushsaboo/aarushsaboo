@@ -34,6 +34,11 @@ Perfect for students, professionals, and focused learning.
 <table>
   <tr>
     <td width="50%">
+      <h3>Third Eye</h3>
+      <a href="https://third-eye-dun.vercel.app/">
+        <img src="https://img.shields.io/badge/Visit_Site-Third_Eye-purple?style=for-the-badge" alt="Visit Site">
+      </a>
+      <br><br>
       <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFBSEC.gif" alt="BSEC Technologies Demo" width="100%">
     </td>
     <td width="50%">
