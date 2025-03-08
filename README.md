@@ -28,15 +28,12 @@ Perfect for students, professionals, and focused learning.
 
 ### $${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platforms}$$
 
-### BSEC Technologies Platform
-[![Visit Site](https://img.shields.io/badge/Visit_Site-BSEC_Technologies-blue?style=for-the-badge)](https://bsec-technologies.vercel.app/platforms)
-
 <table>
   <tr>
     <td width="50%">
-      <h3>Third Eye</h3>
-      <a href="https://third-eye-dun.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit_Site-Third_Eye-purple?style=for-the-badge" alt="Visit Site">
+      <h3>BSEC Technologies</h3>
+      <a href="https://bsec-technologies.vercel.app/platforms">
+        <img src="https://img.shields.io/badge/Visit_Site-BSEC_Technologies-blue?style=for-the-badge" alt="Visit Site">
       </a>
       <br><br>
       <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFBSEC.gif" alt="BSEC Technologies Demo" width="100%">
