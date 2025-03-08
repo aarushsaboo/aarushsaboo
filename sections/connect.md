@@ -1,7 +1,7 @@
 
 <!-- Connect & Contact Section -->
 <h2>
-  <img src="📫" width="20px" alt="📫">
+  <img src="📫">
   <span style="color:#AC3097;">Connect & Contact</span>
 </h2>
 ## 📫 Connect & Contact
