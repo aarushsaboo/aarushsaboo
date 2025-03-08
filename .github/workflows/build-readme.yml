@@ -13,8 +13,6 @@ jobs:
     
     steps:
     - uses: actions/checkout@v2
-      with:
-        token: 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  # Use your secret name here
     
     - name: Combine README files
       run: |
@@ -36,9 +34,4 @@ jobs:
         git config --local user.name "GitHub Action"
         git add README.md
         git commit -m "Update README from section files" || exit 0
-    
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.PAT }}
-        branch: main
+        git push
