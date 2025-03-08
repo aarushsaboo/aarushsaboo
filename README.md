@@ -28,7 +28,13 @@ Perfect for students, professionals, and focused learning.
 
 $${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
 
+<a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
 $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
+</a>
+
+<a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
+<img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/promo.png" alt="YouTube Focus Mode Chrome Extension" width="100%">
+</a>
 
 ### $${\color{#56565E}Transform \space \color{#56565E}YouTube™ \space into \space a \space distraction-free \space workspace}$$
 
