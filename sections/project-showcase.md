@@ -1,9 +1,10 @@
-## 💻 Project Showcase
+## $${\color{#AC3097}💻 \space \color{#56565E}Project \space Showcase}$$
 
 $${\color{#AC3097}Web \space \color{#56565E}Applications \space & \space Platforms}$$
 
-### Transform YouTube™ into a distraction-free workspace
-$${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$$
+### $${\color{#AC3097}Transform \space \color{#56565E}YouTube™ \space into \space a \space distraction-free \space workspace}$$
+
+$\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
 <table>
   <tr>
