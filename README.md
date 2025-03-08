@@ -4,7 +4,7 @@
 
 ![profile-banner](https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png)
 
-<h2>Join me on the way to somewhere interesting! Let's build cool stuff</h2>
+<h2>Join me on the way to somewhere interesting! Let's build cool stuff together</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarush-saboo-110190253/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarushsaboo)
@@ -16,10 +16,12 @@
 <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/coding-gif.gif" alt="coding" style="width: 500px;">
 </div>
 <!-- Project Showcase Section -->
-<h2>
+<!-- <h2>
   <span style="color:#AC3097;">💻</span>
   <span style="color:#56565E;">Project Showcase</span>
-</h2>
+</h2> -->
+
+**💻 Project Showcase**
 
 $${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
 
