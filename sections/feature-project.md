@@ -1,16 +1,14 @@
 <!-- Project Showcase Section -->
-<!-- <h2>
+<h2>
   <span style="color:#AC3097;">💻</span>
   <span style="color:#56565E;">Project Showcase</span>
-</h2> -->
+</h2>
 
-**💻 Project Showcase**
-
-$${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$$
+$\huge{\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platforms}$
 
 <br>
 
-$\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
+${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
 ### $${\color{#AC3097}Transform \space \color{#56565E}YouTube™ \space into \space a \space distraction-free \space workspace}$$
 
@@ -32,3 +30,6 @@ $\huge{\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
     <img src="https://img.shields.io/badge/Users-40+-4285F4?style=for-the-badge" alt="Users">
   </a>
 </div>
+
+<br>
+<br>

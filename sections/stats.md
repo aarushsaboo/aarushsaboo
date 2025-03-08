@@ -1,6 +1,6 @@
 
 <!-- Stats & Activity Section -->
-<h2>
+<!-- <h2>
   <span style="color:#AC3097;">📊</span>
   <span style="color:#56565E;">Stats & Activity</span>
 </h2>
@@ -11,4 +11,4 @@
 
 [![Extension Users](https://img.shields.io/badge/Extension_Users-40+-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
 
-</div>
+</div> -->
