@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### $${\textrm{Transform YouTube™ into a distraction-free workspace}}$$
+### $${\textrm{A browser extension that transforms YouTube™ into a distraction-free workspace}}$$
 
 </div>
 
