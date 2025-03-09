@@ -11,7 +11,7 @@
   
   <!-- Third Eye -->
   <div align="center">
-    <h3>$${\color{#AC3097}Third \space \color{#56565E}Eye}$$</h3>
+    <h3>$${\normalsize \color{#AC3097}\textrm{Third Eye}}$$</h3>
     <a href="https://third-eye-dun.vercel.app/">
       <img src="https://img.shields.io/badge/Visit_Site-Third_Eye-purple?style=for-the-badge" alt="Visit Site">
     </a>
