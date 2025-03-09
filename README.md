@@ -46,12 +46,7 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-### $${ \color{#AC3097}Project \space \color{#AC3097}Showcase}$$
+$${ \color{#AC3097}Project \space \color{#AC3097}Showcase}$$
 
 
 <div align="center">
@@ -150,7 +145,11 @@
 
 $${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Aarush \space Saboo \color{#56565E} \space with \space \color{red}❤️}$$ -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
+<!-- 
 <div align="center">
   <div style="display: inline-block; width: 400px; vertical-align: top; margin: 0 10px;">
     <strong>Smart Content Filtering</strong>
@@ -162,4 +161,4 @@ $${\color{#AC3097}This \space profile \space is \space made \space by \space \co
     <br><br>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpkN2I3bmxwbHN3bmZlYnRnZXBmaDNzdm8yN2l5aTZwYjZhZnU2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="380px" alt="Dashboard Demo">
   </div>
-</div>
+</div> -->
