@@ -45,7 +45,7 @@
 </p>
 
 ---
-
+<!-- 
 ### $${ \color{#AC3097}Project \space \color{#AC3097}Showcase}$$
 
 ### $${\huge \color{#AC3097}Project \space \color{#AC3097}Showcase}$$
@@ -56,7 +56,7 @@
 
 ### $${\color{#AC3097}\textbf{Bold Project} \space \color{#AC3097}\textsf{Sans-Serif Showcase}}$$
 
-### $${\huge \color{#AC3097}\textbf{\textrm{Project}} \space \color{#AC3097}\textbf{\textrm{Showcase}}}$$
+### $${\huge \color{#AC3097}\textbf{\textrm{Project}} \space \color{#AC3097}\textbf{\textrm{Showcase}}}$$ -->
 
 
 
@@ -65,7 +65,7 @@
 ### $${\normalsize \color{#AC3097}\textrm{Project Showcase}}$$
 
 
-### $${\huge \textrm{\color{#AC3097}Project \color{#56565E}Showcase \color{#3498DB}2024}}$$
+<!-- ### $${\huge \textrm{\color{#AC3097}Project \color{#56565E}Showcase \color{#3498DB}2024}}$$ -->
 
 
 
@@ -109,7 +109,7 @@
   
   <!-- Third Eye -->
   <div align="center">
-    <h3>$${\color{#AC3097}Third \space \color{#56565E}Eye}$$</h3>
+    <h3>$${\normalsize \color{#AC3097}\textrm{Third Eye}}$$</h3>
     <a href="https://third-eye-dun.vercel.app/">
       <img src="https://img.shields.io/badge/Visit_Site-Third_Eye-purple?style=for-the-badge" alt="Visit Site">
     </a>
