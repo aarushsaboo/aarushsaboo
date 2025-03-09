@@ -1,5 +1,9 @@
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
+<!-- 
 <div align="center">
   <div style="display: inline-block; width: 400px; vertical-align: top; margin: 0 10px;">
     <strong>Smart Content Filtering</strong>
@@ -11,4 +15,4 @@
     <br><br>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpkN2I3bmxwbHN3bmZlYnRnZXBmaDNzdm8yN2l5aTZwYjZhZnU2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="380px" alt="Dashboard Demo">
   </div>
-</div>
+</div> -->
