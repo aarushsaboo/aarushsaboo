@@ -107,15 +107,18 @@
     <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFBSEC.gif" alt="BSEC Technologies Demo" >
   </div>
   
-  <!-- Third Eye -->
-  <div align="center">
-    <h3>$${\normalsize \color{#AC3097}\textrm{Trend-Terra}}$$</h3>
-    <a href="https://third-eye-dun.vercel.app/">
-      <img src="https://img.shields.io/badge/Visit_Site-Trend_Terra-purple?style=for-the-badge" alt="Visit Site">
-    </a>
-    <br><br>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFTHIRDEYE.gif" alt="Trend-Terra Demo" >
-  </div>
+<!-- Trend-Terra -->
+<div align="center">
+  <h3>$${\normalsize \color{#AC3097}\textrm{Trend-Terra}}$$</h3>
+  <a href="https://third-eye-dun.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_Site-Trend_Terra-purple?style=for-the-badge" alt="Visit Site">
+  </a>
+  <a href="https://github.com/yourusername/trend-terra-repo">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFTHIRDEYE.gif" alt="Trend-Terra Demo" >
+</div>
   
   <!-- Document Assistant RAG -->
   <div align="center">
