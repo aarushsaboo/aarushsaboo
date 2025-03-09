@@ -73,46 +73,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
-```yaml
-name: Aarush Saboo
-located_in: Thane, Maharashtra
-current_job: Frontend and Backend Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Bachelor's in Information Technology",
-  ]
-company: Alpharithm Technologies
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Retrieval Augmented Generation",
-    "CSS",
-  ]
-technical_background:
-  [
-    "Full Stack Developer",
-    "Trainee",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Developing AI-based solutions",
-    "Intern - Browser Extension Development",
-  ]
-  
-currently_learning: ["Docker, RAG, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
-```
-  
----  
-
-
-## 🧑‍💻 Project Showcase
+## 🚀 Project Showcase
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
@@ -165,7 +126,7 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
   
   <!-- Document Assistant RAG -->
   <div align="center">
-    <h3>$${\normalsize \textrm{\color{#E649F5}D\color{#DE58F5}o\color{#D667F6}c\color{#CE76F6}u\color{#C685F7}m\color{#BE94F7}e\color{#B6A3F8}n\color{#AEB2F8}t \color{#A6C1F9}A\color{#9ED0F9}s\color{#96DFFA}s\color{#8EEEFD}t \color{#7EDBFA}R\color{#76D4FA}A\color{#6ECFFA}G}}$$</h3>
+    <h3>$${\normalsize \textrm{\color{#E649F5}D\color{#E253F5}o\color{#DF5DF6}c\color{#DC67F6}u\color{#D971F6}m\color{#D67BF7}e\color{#D385F7}n\color{#D08FF7}t \color{#CD99F8}A\color{#CAA3F8}s\color{#C7ADF8}s\color{#C4B7F9}i\color{#C1C1F9}s\color{#BECBF9}t\color{#BBD5FA}a\color{#B8DFFA}n\color{#B5E9FA}t \color{#AED7FA}w\color{#ABD1FA}i\color{#A8CBFA}t\color{#A5C5FA}h \color{#9FBFFA}R\color{#9CB9FA}A\color{#99B3F9}G}}$$</h3>
     <a href="https://aarushsaboo-document-assistant-rag-srcmain-3bgukd.streamlit.app/">
       <img src="https://img.shields.io/badge/Visit_Site-Document_Assistant-E649F5?style=for-the-badge" alt="Visit Site">
     </a>
@@ -221,6 +182,45 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
 </h2>
 
 $${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Aarush \space Saboo \color{#56565E} \space with \space \color{red}❤️}$$ -->
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Aarush Saboo
+located_in: Thane, Maharashtra
+current_job: Frontend and Backend Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Information Technology",
+  ]
+company: Alpharithm Technologies
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Retrieval Augmented Generation",
+    "CSS",
+  ]
+technical_background:
+  [
+    "Full Stack Developer",
+    "Trainee",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Developing AI-based solutions",
+    "Intern - Browser Extension Development",
+  ]
+  
+currently_learning: ["Docker, RAG, and React Native"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
+```
+  
+---  
+
 ## 🧑‍💻 Skills
 
 
