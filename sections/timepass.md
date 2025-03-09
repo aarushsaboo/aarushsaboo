@@ -127,3 +127,6 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpkN2I3bmxwbHN3bmZlYnRnZXBmaDNzdm8yN2l5aTZwYjZhZnU2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="380px" alt="Dashboard Demo">
   </div>
 </div> -->
+
+
+![Snake animation](https://github.com/aarushsaboo/aarushsaboo/blob/output/github-contribution-grid-snake.svg)
