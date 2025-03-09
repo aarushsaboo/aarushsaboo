@@ -97,18 +97,18 @@
 
 ---
 <div align="center">
-  <!-- BSEC Technologies -->
-  <div align="center">
-    <h3>$${\normalsize \textrm{\color{#d46763}B\color{#d76e69}S\color{#da756f}E\color{#dd7c75}C \color{#e0837b}T\color{#e38a81}e\color{#e69187}c\color{#e9988d}h\color{#ec9f93}n\color{#efa699}o\color{#f2ad9f}l\color{#f2a294}o\color{#f29d8d}g\color{#f29886}i\color{#f28582}s}}$$</h3>
-    <a href="https://bsec-technologies.vercel.app/platforms">
-      <img src="https://img.shields.io/badge/Visit_Site-BSEC_Technologies-d46763?style=for-the-badge" alt="Visit Site">
-    </a>
-    <a href="https://github.com/aarushsaboo/bsec-technologies">
-      <img src="https://img.shields.io/badge/GitHub-Repository-f28582?style=for-the-badge&logo=github" alt="GitHub Repository">
-    </a>
-    <br><br>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFBSEC.gif" alt="BSEC Technologies Demo" >
-  </div>
+  <!-- BSEC Technologies with fixed spelling -->
+<div align="center">
+  <h3>$${\normalsize \textrm{\color{#d46763}B\color{#d76e69}S\color{#da756f}E\color{#dd7c75}C \color{#e0837b}T\color{#e38a81}e\color{#e69187}c\color{#e9988d}h\color{#ec9f93}n\color{#efa699}o\color{#f1ad9f}l\color{#f2a294}o\color{#f29d8d}g\color{#f29886}i\color{#f28a84}e\color{#f28582}s}}$$</h3>
+  <a href="https://bsec-technologies.vercel.app/platforms">
+    <img src="https://img.shields.io/badge/Visit_Site-BSEC_Technologies-d46763?style=for-the-badge" alt="Visit Site">
+  </a>
+  <a href="https://github.com/aarushsaboo/bsec-technologies">
+    <img src="https://img.shields.io/badge/GitHub-Repository-f28582?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFBSEC.gif" alt="BSEC Technologies Demo" >
+</div>
   
   <!-- Trend-Terra -->
   <div align="center">
@@ -123,18 +123,18 @@
     <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFTHIRDEYE.gif" alt="Trend-Terra Demo" >
   </div>
   
-  <!-- Document Assistant RAG -->
-  <div align="center">
-    <h3>$${\normalsize \textrm{\color{#d46763}D\color{#d76a65}o\color{#d96d67}c\color{#db7069}u\color{#dd736b}m\color{#df766d}e\color{#e1796f}n\color{#e37c71}t \color{#e57f73}A\color{#e78275}s\color{#e98577}s\color{#eb8879}i\color{#ed8b7b}s\color{#ef8e7d}t\color{#f0917f}a\color{#f19481}n\color{#f29783}t \color{#f29a85}w\color{#f29d87}i\color{#f2a089}t\color{#f2a38b}h \color{#f2aa8f}R\color{#f2ad91}A\color{#f28582}G}}$$</h3>
-    <a href="https://aarushsaboo-document-assistant-rag-srcmain-3bgukd.streamlit.app/">
-      <img src="https://img.shields.io/badge/Visit_Site-Document_Assistant-d46763?style=for-the-badge" alt="Visit Site">
-    </a>
-    <a href="https://github.com/aarushsaboo/document-assistant-RAG">
-      <img src="https://img.shields.io/badge/GitHub-Repository-f28582?style=for-the-badge&logo=github" alt="GitHub Repository">
-    </a>
-    <br><br>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFRAG.gif" alt="Document Assistant Demo" >
-  </div>
+<!-- Document Assistant RAG with fixed color for G -->
+<div align="center">
+  <h3>$${\normalsize \textrm{\color{#d46763}D\color{#d76a65}o\color{#d96d67}c\color{#db7069}u\color{#dd736b}m\color{#df766d}e\color{#e1796f}n\color{#e37c71}t \color{#e57f73}A\color{#e78275}s\color{#e98577}s\color{#eb8879}i\color{#ed8b7b}s\color{#ef8e7d}t\color{#f0917f}a\color{#f19481}n\color{#f29783}t \color{#f29a85}w\color{#f29d87}i\color{#f2a089}t\color{#f2a38b}h \color{#f2a68d}R\color{#f2a98f}A\color{#f28582}G}}$$</h3>
+  <a href="https://aarushsaboo-document-assistant-rag-srcmain-3bgukd.streamlit.app/">
+    <img src="https://img.shields.io/badge/Visit_Site-Document_Assistant-d46763?style=for-the-badge" alt="Visit Site">
+  </a>
+  <a href="https://github.com/aarushsaboo/document-assistant-RAG">
+    <img src="https://img.shields.io/badge/GitHub-Repository-f28582?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFRAG.gif" alt="Document Assistant Demo" >
+</div>
   
   <!-- CSV Data Analysis Tool -->
   <div align="center">
