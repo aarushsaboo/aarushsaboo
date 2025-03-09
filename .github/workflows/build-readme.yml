@@ -16,8 +16,6 @@ jobs:
     
     - name: Combine README files
       run: |
-        echo "# Aarush Saboo's Portfolio" > README.md
-        echo "" >> README.md
         cat sections/header.md >> README.md
         echo "" >> README.md
         cat sections/feature-project.md >> README.md
