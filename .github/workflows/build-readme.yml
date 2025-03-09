@@ -10,12 +10,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Debug - List files
+      run: |
+        ls -la sections/
     
     - name: Combine README files
       run: |
+        echo "" > README.md  # Clear the file first
         cat sections/header.md >> README.md
         echo "" >> README.md
         cat sections/feature-project.md >> README.md
