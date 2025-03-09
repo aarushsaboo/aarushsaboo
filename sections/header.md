@@ -45,4 +45,14 @@
 
 ---
 
-$${ \color{#AC3097}Project \space \color{#AC3097}Showcase}$$
+### $${ \color{#AC3097}Project \space \color{#AC3097}Showcase}$$
+
+### $${\huge \color{#AC3097}Project \space \color{#AC3097}Showcase}$$
+
+### $${\large \color{#AC3097}Project \space \color{#AC3097}Showcase}$$
+
+### $${\color{#AC3097}\textrm{Project} \space \color{#AC3097}\textrm{Showcase}}$$
+
+### $${\color{#AC3097}\textbf{Bold Project} \space \color{#AC3097}\textsf{Sans-Serif Showcase}}$$
+
+### $${\huge \color{#AC3097}\textbf{\textrm{Project}} \space \color{#AC3097}\textbf{\textrm{Showcase}}}$$
