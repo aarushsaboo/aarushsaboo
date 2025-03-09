@@ -21,7 +21,9 @@ ${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 </div>
 
 <div align="center">
+
 ### $${Transform \space YouTube™ \space into \space a \space distraction-free \space workspace.}$$
+
 </div>
 
 <br>
