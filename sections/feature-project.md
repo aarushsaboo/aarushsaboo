@@ -1,4 +1,5 @@
-### $${ \color{#AC3097}Project \space \color{#AC3097}Showcase}$$
+<!-- ### $${ \color{#AC3097}Project \space \color{#AC3097}Showcase}$$ -->
+$${\color{#AC3097}\Large Project \space \color{#AC3097}Showcase}$$
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
