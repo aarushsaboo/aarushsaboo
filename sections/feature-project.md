@@ -16,10 +16,11 @@ ${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
 ### $${YouTube™ \space Focus \space Mode}$$
 
+### $${Transform \space YouTube™ \space into \space a \space distraction-free \space workspace.}$$
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/promo.png" alt="YouTube Focus Mode Chrome Extension" width="1584" height="576">
+    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/promo.png" alt="YouTube Focus Mode Chrome Extension">
   </a>
 </div>
 
