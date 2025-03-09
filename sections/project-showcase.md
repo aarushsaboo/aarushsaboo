@@ -5,7 +5,7 @@
     <a href="https://bsec-technologies.vercel.app/platforms">
       <img src="https://img.shields.io/badge/Visit_Site-BSEC_Technologies-E649F5?style=for-the-badge" alt="Visit Site">
     </a>
-    <a href="https://github.com/yourusername/bsec-technologies-repo">
+    <a href="https://github.com/aarushsaboo/bsec-technologies">
       <img src="https://img.shields.io/badge/GitHub-Repository-4AC7FA?style=for-the-badge&logo=github" alt="GitHub Repository">
     </a>
     <br><br>
@@ -18,7 +18,7 @@
     <a href="https://third-eye-dun.vercel.app/">
       <img src="https://img.shields.io/badge/Visit_Site-Trend_Terra-E649F5?style=for-the-badge" alt="Visit Site">
     </a>
-    <a href="https://github.com/yourusername/trend-terra-repo">
+    <a href="https://github.com/harshitaphadtare/ThirdEye">
       <img src="https://img.shields.io/badge/GitHub-Repository-4AC7FA?style=for-the-badge&logo=github" alt="GitHub Repository">
     </a>
     <br><br>
@@ -31,7 +31,7 @@
     <a href="https://aarushsaboo-document-assistant-rag-srcmain-3bgukd.streamlit.app/">
       <img src="https://img.shields.io/badge/Visit_Site-Document_Assistant-E649F5?style=for-the-badge" alt="Visit Site">
     </a>
-    <a href="https://github.com/yourusername/document-assistant-rag-repo">
+    <a href="https://github.com/aarushsaboo/document-assistant-RAG">
       <img src="https://img.shields.io/badge/GitHub-Repository-4AC7FA?style=for-the-badge&logo=github" alt="GitHub Repository">
     </a>
     <br><br>
@@ -44,7 +44,7 @@
     <a href="https://aarush-csv-data-analysis.streamlit.app/">
       <img src="https://img.shields.io/badge/Visit_Site-CSV_Analyzer-E649F5?style=for-the-badge" alt="Visit Site">
     </a>
-    <a href="https://github.com/yourusername/csv-data-analysis-repo">
+    <a href="https://github.com/aarushsaboo/csv-insight-proto">
       <img src="https://img.shields.io/badge/GitHub-Repository-4AC7FA?style=for-the-badge&logo=github" alt="GitHub Repository">
     </a>
     <br><br>
@@ -57,7 +57,7 @@
     <a href="https://st-text-audio-converter-fbj2ievpxwf6cr968dahbf.streamlit.app/">
       <img src="https://img.shields.io/badge/Visit_Site-Lecture_Assistant-E649F5?style=for-the-badge" alt="Visit Site">
     </a>
-    <a href="https://github.com/yourusername/student-lecture-assistant-repo">
+    <a href="https://github.com/aarushsaboo/audiofier">
       <img src="https://img.shields.io/badge/GitHub-Repository-4AC7FA?style=for-the-badge&logo=github" alt="GitHub Repository">
     </a>
     <br><br>
