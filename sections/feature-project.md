@@ -1,5 +1,5 @@
 <!-- Project Showcase Section -->
-<h2>
+<!-- <h2>
   <span style="color:#AC3097;">💻</span>
   <span style="color:#56565E;">Project Showcase</span>
 </h2>
@@ -10,9 +10,12 @@ ${\color{#AC3097}Web \space \color{#56565E}Applications \space and \space Platfo
 
 ${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 
-### $${\color{#AC3097}Transform \space \color{#56565E}YouTube™ \space into \space a \space distraction-free \space workspace}$$
+### $${\color{#AC3097}Transform \space \color{#56565E}YouTube™ \space into \space a \space distraction-free \space workspace}$$ -->
 
-<br>
+### $${\color{#AC3097}Project \space \color{#AC3097}Showcase}$$
+
+### $${YouTube™ \space Focus \space Mode}$$
+
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
