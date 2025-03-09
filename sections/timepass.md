@@ -129,4 +129,4 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
 </div> -->
 
 
-![Snake animation](https://github.com/aarushsaboo/aarushsaboo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/output/github-contribution-grid-snake.svg)
