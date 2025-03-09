@@ -87,7 +87,7 @@
       <img src="https://img.shields.io/badge/Visit_Site-BSEC_Technologies-blue?style=for-the-badge" alt="Visit Site">
     </a>
     <br><br>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFBSEC.gif" alt="BSEC Technologies Demo" width="100%">
+    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFBSEC.gif" alt="BSEC Technologies Demo" >
   </div>
   
   <!-- Third Eye -->
@@ -97,7 +97,7 @@
       <img src="https://img.shields.io/badge/Visit_Site-Third_Eye-purple?style=for-the-badge" alt="Visit Site">
     </a>
     <br><br>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFTHIRDEYE.gif" alt="Third Eye Demo" width="100%">
+    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFTHIRDEYE.gif" alt="Third Eye Demo" >
   </div>
   
   <!-- Document Assistant RAG -->
@@ -107,7 +107,7 @@
       <img src="https://img.shields.io/badge/Visit_Site-Document_Assistant-green?style=for-the-badge" alt="Visit Site">
     </a>
     <br><br>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFRAG.gif" alt="Document Assistant Demo" width="100%">
+    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFRAG.gif" alt="Document Assistant Demo" >
   </div>
   
   <!-- CSV Data Analysis Tool -->
@@ -117,7 +117,7 @@
       <img src="https://img.shields.io/badge/Visit_Site-CSV_Analyzer-orange?style=for-the-badge" alt="Visit Site">
     </a>
     <br><br>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFCSVDATANALYSIS.gif" alt="CSV Analyzer Demo" width="100%">
+    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFCSVDATANALYSIS.gif" alt="CSV Analyzer Demo" >
   </div>
   
   <!-- Student Lecture Assistant -->
@@ -127,7 +127,7 @@
       <img src="https://img.shields.io/badge/Visit_Site-Lecture_Assistant-red?style=for-the-badge" alt="Visit Site">
     </a>
     <br><br>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFSTUDENTLECTUREASST.gif" alt="Student Lecture Assistant" width="100%">
+    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFSTUDENTLECTUREASST.gif" alt="Student Lecture Assistant" >
   </div>
 </div>
 
