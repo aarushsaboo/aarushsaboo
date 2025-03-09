@@ -1,5 +1,3 @@
-# Aarush Saboo's Portfolio
-
 <!-- <div align="center">
 
 ![profile-banner](https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png)
