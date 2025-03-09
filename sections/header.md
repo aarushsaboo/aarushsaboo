@@ -70,5 +70,45 @@
 <!-- multicolor -->
 <!-- ### $${\huge \textrm{\color{#AC3097}P\color{#A52A98}r\color{#9E2599}o\color{#972099}j\color{#901B9A}e\color{#89169B}c\color{#82119C}t \color{#7B0C9D}S\color{#74079E}h\color{#6D029F}o\color{#6600A0}w\color{#5F00A1}c\color{#5800A2}a\color{#5100A3}s\color{#4A00A4}e}}$$ -->
 
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Aarush Saboo
+located_in: Thane, Maharashtra
+current_job: Frontend and Backend Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Information Technology",
+  ]
+company: Alpharithm Technologies
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Retrieval Augmented Generation",
+    "CSS",
+  ]
+# technical_background:
+#   [
+#     "Full Stack Developer"
+#     "DevOps Solutions Architect",
+#     "Intern - Data Science & Machine Learning in Python",
+#     "Intern - Internet Of Things",
+#     "Intern - VLSI and FPGA Implementation",
+#   ]
+  
+currently_learning: ["Docker, RAG, and React Native"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
+```
+  
+---  
+
 
 ## 🧑‍💻 Project Showcase
