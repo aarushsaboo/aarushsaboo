@@ -1,6 +1,6 @@
 # Aarush Saboo's Portfolio
 
-<div align="center">
+<!-- <div align="center">
 
 ![profile-banner](https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png)
 
@@ -14,7 +14,43 @@
 **Frontend & Backend Developer**
 
 <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/coding-gif.gif" alt="coding" style="width: 500px;">
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+<a href="https://piyushmalhotra.netlify.app/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://thepiyushmalhotra.medium.com/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+</a>
+<a href="https://dev.to/thepiyushmalhotra">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+<a href="https://twitter.com/Ipiyushmalhotra">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 <!-- Project Showcase Section -->
 <h2>
   <span style="color:#AC3097;">💻</span>
@@ -138,21 +174,6 @@ $${\color{#AC3097}This \space profile \space is \space made \space by \space \co
 
 
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="50%">
-      <strong>Smart Content Filtering</strong>
-      <br><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6bWI3Mng2aXVtNnB6NXV4cjl1enlhdHV0NHg3aG50YTNkcWV1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif" width="100%" alt="Filtering Demo">
-    </td>
-    <td align="center" width="50%">
-      <strong>Interactive Dashboard</strong>
-      <br><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpkN2I3bmxwbHN3bmZlYnRnZXBmaDNzdm8yN2l5aTZwYjZhZnU2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%" alt="Dashboard Demo">
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <div style="display: inline-block; width: 400px; vertical-align: top; margin: 0 10px;">
     <strong>Smart Content Filtering</strong>
@@ -163,18 +184,5 @@ $${\color{#AC3097}This \space profile \space is \space made \space by \space \co
     <strong>Interactive Dashboard</strong>
     <br><br>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpkN2I3bmxwbHN3bmZlYnRnZXBmaDNzdm8yN2l5aTZwYjZhZnU2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="380px" alt="Dashboard Demo">
-  </div>
-</div>
-
-<div align="center">
-  <div align="center" width="50%" style="display: inline-block; width: 49%;">
-    <strong>Smart Content Filtering</strong>
-    <br><br>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6bWI3Mng2aXVtNnB6NXV4cjl1enlhdHV0NHg3aG50YTNkcWV1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif" width="100%" alt="Filtering Demo">
-  </div>
-  <div align="center" width="50%" style="display: inline-block; width: 49%;">
-    <strong>Interactive Dashboard</strong>
-    <br><br>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpkN2I3bmxwbHN3bmZlYnRnZXBmaDNzdm8yN2l5aTZwYjZhZnU2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%" alt="Dashboard Demo">
   </div>
 </div>
