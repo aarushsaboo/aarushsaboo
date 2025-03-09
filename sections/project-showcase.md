@@ -11,12 +11,12 @@
   
   <!-- Third Eye -->
   <div align="center">
-    <h3>$${\normalsize \color{#AC3097}\textrm{Third Eye}}$$</h3>
+    <h3>$${\normalsize \color{#AC3097}\textrm{Trend-Terra}}$$</h3>
     <a href="https://third-eye-dun.vercel.app/">
-      <img src="https://img.shields.io/badge/Visit_Site-Third_Eye-purple?style=for-the-badge" alt="Visit Site">
+      <img src="https://img.shields.io/badge/Visit_Site-Trend_Terra-purple?style=for-the-badge" alt="Visit Site">
     </a>
     <br><br>
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFTHIRDEYE.gif" alt="Third Eye Demo" >
+    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFTHIRDEYE.gif" alt="Trend-Terra Demo" >
   </div>
   
   <!-- Document Assistant RAG -->
