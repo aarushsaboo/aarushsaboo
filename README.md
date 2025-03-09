@@ -50,8 +50,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-<!-- ### $${ \color{#AC3097}Project \space \color{#AC3097}Showcase}$$ -->
-$${\color{#AC3097}\Large Project \space \color{#AC3097}Showcase}$$
+
+### $${ \color{#AC3097}Project \space \color{#AC3097}Showcase}$$
+
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
