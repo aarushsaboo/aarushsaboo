@@ -24,22 +24,22 @@
 </h1>
 
 <p align="center">
-<a href="https://piyushmalhotra.netlify.app/">
+<!-- <a href="https://piyushmalhotra.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+</a> -->
+<a href="https://www.linkedin.com/in/aarush-saboo-110190253/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://thepiyushmalhotra.medium.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
-<a href="https://dev.to/thepiyushmalhotra">
+<!-- <a href="https://dev.to/thepiyushmalhotra">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
-<a href="https://twitter.com/Ipiyushmalhotra">
+</a> -->
+<a href="https://x.com/AarushSaboo">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.instagram.com/aarushizbored/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
@@ -73,7 +73,7 @@
 
 ---
 
-## 🚀 Project Showcase
+## ✨ Project Showcase
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
@@ -104,7 +104,7 @@
     <a href="https://bsec-technologies.vercel.app/platforms">
       <img src="https://img.shields.io/badge/Visit_Site-BSEC_Technologies-E649F5?style=for-the-badge" alt="Visit Site">
     </a>
-    <a href="https://github.com/yourusername/bsec-technologies-repo">
+    <a href="https://github.com/aarushsaboo/bsec-technologies">
       <img src="https://img.shields.io/badge/GitHub-Repository-4AC7FA?style=for-the-badge&logo=github" alt="GitHub Repository">
     </a>
     <br><br>
@@ -117,7 +117,7 @@
     <a href="https://third-eye-dun.vercel.app/">
       <img src="https://img.shields.io/badge/Visit_Site-Trend_Terra-E649F5?style=for-the-badge" alt="Visit Site">
     </a>
-    <a href="https://github.com/yourusername/trend-terra-repo">
+    <a href="https://github.com/harshitaphadtare/ThirdEye">
       <img src="https://img.shields.io/badge/GitHub-Repository-4AC7FA?style=for-the-badge&logo=github" alt="GitHub Repository">
     </a>
     <br><br>
@@ -130,7 +130,7 @@
     <a href="https://aarushsaboo-document-assistant-rag-srcmain-3bgukd.streamlit.app/">
       <img src="https://img.shields.io/badge/Visit_Site-Document_Assistant-E649F5?style=for-the-badge" alt="Visit Site">
     </a>
-    <a href="https://github.com/yourusername/document-assistant-rag-repo">
+    <a href="https://github.com/aarushsaboo/document-assistant-RAG">
       <img src="https://img.shields.io/badge/GitHub-Repository-4AC7FA?style=for-the-badge&logo=github" alt="GitHub Repository">
     </a>
     <br><br>
@@ -143,7 +143,7 @@
     <a href="https://aarush-csv-data-analysis.streamlit.app/">
       <img src="https://img.shields.io/badge/Visit_Site-CSV_Analyzer-E649F5?style=for-the-badge" alt="Visit Site">
     </a>
-    <a href="https://github.com/yourusername/csv-data-analysis-repo">
+    <a href="https://github.com/aarushsaboo/csv-insight-proto">
       <img src="https://img.shields.io/badge/GitHub-Repository-4AC7FA?style=for-the-badge&logo=github" alt="GitHub Repository">
     </a>
     <br><br>
@@ -156,7 +156,7 @@
     <a href="https://st-text-audio-converter-fbj2ievpxwf6cr968dahbf.streamlit.app/">
       <img src="https://img.shields.io/badge/Visit_Site-Lecture_Assistant-E649F5?style=for-the-badge" alt="Visit Site">
     </a>
-    <a href="https://github.com/yourusername/student-lecture-assistant-repo">
+    <a href="https://github.com/aarushsaboo/audiofier">
       <img src="https://img.shields.io/badge/GitHub-Repository-4AC7FA?style=for-the-badge&logo=github" alt="GitHub Repository">
     </a>
     <br><br>
@@ -183,7 +183,7 @@
 
 $${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Aarush \space Saboo \color{#56565E} \space with \space \color{red}❤️}$$ -->
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 😎 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Aarush Saboo
