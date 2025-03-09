@@ -1,4 +1,3 @@
-
 <!-- <div align="center">
 
 ![profile-banner](https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png)
@@ -45,7 +44,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
@@ -159,12 +157,11 @@ ${\color{#AC3097}YouTube™ \space \color{#56565E}Focus \space Mode}$
 </h2>
 
 $${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Aarush \space Saboo \color{#56565E} \space with \space \color{red}❤️}$$ -->
+
 | Header 1 | Header 2 |
 | -------- | -------- |
 | Cell 1   | Cell 2   |
 | Cell 3   | Cell 4   |
-
-
 
 <table>
   <tr>
@@ -176,8 +173,6 @@ $${\color{#AC3097}This \space profile \space is \space made \space by \space \co
     <td>Cell 4</td>
   </tr>
 </table>
-
-
 
 <div align="center">
   <div style="display: inline-block; width: 400px; vertical-align: top; margin: 0 10px;">
