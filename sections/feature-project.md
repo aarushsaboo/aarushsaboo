@@ -11,8 +11,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
     <img src="https://img.shields.io/badge/Chrome_Web_Store-Available-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
@@ -22,6 +20,4 @@
   </a>
 </div>
 
-<br>
 ---
-<br>
