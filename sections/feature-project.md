@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### $${Transform \space YouTube™ \space into \space a \space distraction-free \space workspace}$$
+### $${\textrm{Transform YouTube™ into a distraction-free workspace}}$$
 
 </div>
 
