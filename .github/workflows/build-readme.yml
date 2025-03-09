@@ -27,6 +27,8 @@ jobs:
         cat sections/stats.md >> README.md
         echo "" >> README.md
         cat sections/connect.md >> README.md
+        echo "" >> README.md
+        cat sections/timepass.md >> README.md
     
     - name: Commit changes
       run: |
