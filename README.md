@@ -58,6 +58,19 @@
 
 ### $${\huge \color{#AC3097}\textbf{\textrm{Project}} \space \color{#AC3097}\textbf{\textrm{Showcase}}}$$
 
+
+
+### $${\huge \color{#AC3097}\textrm{Project Showcase}}$$
+
+### $${\normalsize \color{#AC3097}\textrm{Project Showcase}}$$
+
+
+### $${\huge \textrm{\color{#AC3097}Project \color{#56565E}Showcase \color{#3498DB}2024}}$$
+
+
+
+### $${\huge \textrm{\color{#AC3097}P\color{#A52A98}r\color{#9E2599}o\color{#972099}j\color{#901B9A}e\color{#89169B}c\color{#82119C}t \color{#7B0C9D}S\color{#74079E}h\color{#6D029F}o\color{#6600A0}w\color{#5F00A1}c\color{#5800A2}a\color{#5100A3}s\color{#4A00A4}e}}$$
+
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
     <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/promo.png" alt="YouTube Focus Mode Chrome Extension">
