@@ -19,7 +19,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Connect if you have something interesting to say!
 </h1>
 
 <p align="center">
@@ -71,4 +71,4 @@
 
 ---
 
-## ✨ Project Showcase
+## 👨🏻‍💻 Project Showcase
