@@ -97,9 +97,9 @@
 
 ---
 <div align="center">
-  <!-- BSEC Technologies with fixed spelling -->
+  <!-- BSEC Technologies with rainbow gradient -->
 <div align="center">
-  <h3>$${\normalsize \textrm{\color{#d46763}B\color{#d76e69}S\color{#da756f}E\color{#dd7c75}C \color{#e0837b}T\color{#e38a81}e\color{#e69187}c\color{#e9988d}h\color{#ec9f93}n\color{#efa699}o\color{#f1ad9f}l\color{#f2a294}o\color{#f29d8d}g\color{#f29886}i\color{#f28a84}e\color{#f28582}s}}$$</h3>
+  <h3>$${\normalsize \textrm{\color{#FF0000}B\color{#FF7F00}S\color{#FFFF00}E\color{#00FF00}C \color{#0000FF}T\color{#4B0082}e\color{#8B00FF}c\color{#FF0000}h\color{#FF7F00}n\color{#FFFF00}o\color{#00FF00}l\color{#0000FF}o\color{#4B0082}g\color{#8B00FF}i\color{#FF0000}e\color{#FF7F00}s}}$$</h3>
   <a href="https://bsec-technologies.vercel.app/platforms">
     <img src="https://img.shields.io/badge/Visit_Site-BSEC_Technologies-d46763?style=for-the-badge" alt="Visit Site">
   </a>
@@ -112,7 +112,7 @@
   
   <!-- Trend-Terra -->
   <div align="center">
-    <h3>$${\normalsize \textrm{\color{#d46763}T\color{#d76e69}r\color{#da756f}e\color{#dd7c75}n\color{#e0837b}d\color{#e38a81}-\color{#e69187}T\color{#e9988d}e\color{#ec9f93}r\color{#efa699}r\color{#f2ad9f}a}}$$</h3>
+    <h3>$${\normalsize \textrm{\color{#FF0000}T\color{#FF7F00}r\color{#FFFF00}e\color{#00FF00}n\color{#0000FF}d\color{#4B0082}-\color{#8B00FF}T\color{#FF0000}e\color{#FF7F00}r\color{#FFFF00}r\color{#00FF00}a}}$$</h3>
     <a href="https://third-eye-dun.vercel.app/">
       <img src="https://img.shields.io/badge/Visit_Site-Trend_Terra-d46763?style=for-the-badge" alt="Visit Site">
     </a>
@@ -123,9 +123,9 @@
     <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/GIFTHIRDEYE.gif" alt="Trend-Terra Demo" >
   </div>
   
-<!-- Document Assistant RAG with fixed color for G -->
+<!-- Document Assistant RAG with rainbow gradient -->
 <div align="center">
-  <h3>$${\normalsize \textrm{\color{#d46763}D\color{#d76a65}o\color{#d96d67}c\color{#db7069}u\color{#dd736b}m\color{#df766d}e\color{#e1796f}n\color{#e37c71}t \color{#e57f73}A\color{#e78275}s\color{#e98577}s\color{#eb8879}i\color{#ed8b7b}s\color{#ef8e7d}t\color{#f0917f}a\color{#f19481}n\color{#f29783}t \color{#f29a85}w\color{#f29d87}i\color{#f2a089}t\color{#f2a38b}h \color{#f2a68d}R\color{#f2a98f}A\color{#f28582}G}}$$</h3>
+  <h3>$${\normalsize \textrm{\color{#FF0000}D\color{#FF7F00}o\color{#FFFF00}c\color{#00FF00}u\color{#0000FF}m\color{#4B0082}e\color{#8B00FF}n\color{#FF0000}t \color{#FF7F00}A\color{#FFFF00}s\color{#00FF00}s\color{#0000FF}i\color{#4B0082}s\color{#8B00FF}t\color{#FF0000}a\color{#FF7F00}n\color{#FFFF00}t \color{#00FF00}w\color{#0000FF}i\color{#4B0082}t\color{#8B00FF}h \color{#FF0000}R\color{#FF7F00}A\color{#FFFF00}G}}$$</h3>
   <a href="https://aarushsaboo-document-assistant-rag-srcmain-3bgukd.streamlit.app/">
     <img src="https://img.shields.io/badge/Visit_Site-Document_Assistant-d46763?style=for-the-badge" alt="Visit Site">
   </a>
@@ -138,7 +138,7 @@
   
   <!-- CSV Data Analysis Tool -->
   <div align="center">
-    <h3>$${\normalsize \textrm{\color{#d46763}C\color{#d76a65}S\color{#d96d67}V \color{#db7069}D\color{#dd736b}a\color{#df766d}t\color{#e1796f}a \color{#e37c71}A\color{#e57f73}n\color{#e78275}a\color{#e98577}l\color{#eb8879}y\color{#ed8b7b}s\color{#ef8e7d}i\color{#f0917f}s \color{#f29481}T\color{#f29783}o\color{#f29a85}o\color{#f29d87}l}}$$</h3>
+    <h3>$${\normalsize \textrm{\color{#FF0000}C\color{#FF7F00}S\color{#FFFF00}V \color{#00FF00}D\color{#0000FF}a\color{#4B0082}t\color{#8B00FF}a \color{#FF0000}A\color{#FF7F00}n\color{#FFFF00}a\color{#00FF00}l\color{#0000FF}y\color{#4B0082}s\color{#8B00FF}i\color{#FF0000}s \color{#FF7F00}T\color{#FFFF00}o\color{#00FF00}o\color{#0000FF}l}}$$</h3>
     <a href="https://aarush-csv-data-analysis.streamlit.app/">
       <img src="https://img.shields.io/badge/Visit_Site-CSV_Analyzer-d46763?style=for-the-badge" alt="Visit Site">
     </a>
@@ -151,7 +151,7 @@
   
   <!-- Student Lecture Assistant -->
   <div align="center">
-    <h3>$${\normalsize \textrm{\color{#d46763}S\color{#d66a65}t\color{#d86d67}u\color{#da7069}d\color{#dc736b}e\color{#de766d}n\color{#e0796f}t \color{#e27c71}L\color{#e47f73}e\color{#e68275}c\color{#e88577}t\color{#ea8879}u\color{#ec8b7b}r\color{#ee8e7d}e \color{#f0917f}A\color{#f19481}s\color{#f29783}s\color{#f29a85}i\color{#f29d87}s\color{#f2a089}t\color{#f2a38b}a\color{#f2a68d}n\color{#f2a88f}t}}$$</h3>
+    <h3>$${\normalsize \textrm{\color{#FF0000}S\color{#FF7F00}t\color{#FFFF00}u\color{#00FF00}d\color{#0000FF}e\color{#4B0082}n\color{#8B00FF}t \color{#FF0000}L\color{#FF7F00}e\color{#FFFF00}c\color{#00FF00}t\color{#0000FF}u\color{#4B0082}r\color{#8B00FF}e \color{#FF0000}A\color{#FF7F00}s\color{#FFFF00}s\color{#00FF00}i\color{#0000FF}s\color{#4B0082}t\color{#8B00FF}a\color{#FF0000}n\color{#FF7F00}t}}$$</h3>
     <a href="https://st-text-audio-converter-fbj2ievpxwf6cr968dahbf.streamlit.app/">
       <img src="https://img.shields.io/badge/Visit_Site-Lecture_Assistant-d46763?style=for-the-badge" alt="Visit Site">
     </a>
