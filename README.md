@@ -20,7 +20,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Connect if you have something interesting to say!
 </h1>
 
 <p align="center">
@@ -72,7 +72,7 @@
 
 ---
 
-## ✨ Project Showcase
+## 👨🏻‍💻 Project Showcase
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
@@ -88,10 +88,10 @@
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
-    <img src="https://img.shields.io/badge/Chrome_Web_Store-Available-D46763?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
+    <img src="https://img.shields.io/badge/Chrome_Web_Store-Available-4DB6AC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
   </a>
   <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb">
-    <img src="https://img.shields.io/badge/Users-40+-F28582?style=for-the-badge" alt="Users">
+    <img src="https://img.shields.io/badge/Users-40+-FF4081?style=for-the-badge" alt="Users">
   </a>
 </div>
 
